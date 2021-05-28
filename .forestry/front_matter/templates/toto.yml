@@ -20,3 +20,4 @@ fields:
   description: The body
 pages:
 - _posts/this-is-the-title.md
+- page-toto.md
