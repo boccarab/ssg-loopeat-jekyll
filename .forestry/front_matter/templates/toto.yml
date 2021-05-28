@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: body
   description: The body
+pages:
+- _posts/this-is-the-title.md
